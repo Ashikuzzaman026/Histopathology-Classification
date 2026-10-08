@@ -31,16 +31,6 @@
 
 </div>
 
-## Contributors
-
-- Ashikuzzaman
-- Dr. Israt Jhahan Mim
-- Md. Meherab Hossain
-- Nazmul Hasan Jubair
-- Dr. Tania Islam
-- Dr. Jia Uddin
-- Dr. Abdulrahman S. Alturki
-
 ## 🌟 Overview
 
 **MaxViT-Tiny-GRFM** is an explainable deep learning framework for five-class lung and colon histopathology classification using the LC25000 dataset.
